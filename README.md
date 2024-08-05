@@ -1,9 +1,7 @@
 <h1 align="center">Hi there👋, I'm Manon LE BARAZER</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate full-stack developer from France</h3>
 
 - 🔭 I’m currently working on **my portfolio**
-
-- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **manonlebarazer@icloud.com**
 
